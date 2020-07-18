@@ -1,0 +1,6 @@
+/Users/deepika/Projects/testing/bin/testing.dll
+/Users/deepika/Projects/testing/bin/testing.pdb
+/Users/deepika/Projects/testing/obj/Debug/testing.csprojAssemblyReference.cache
+/Users/deepika/Projects/testing/obj/Debug/testing.csproj.CoreCompileInputs.cache
+/Users/deepika/Projects/testing/obj/Debug/testing.dll
+/Users/deepika/Projects/testing/obj/Debug/testing.pdb
